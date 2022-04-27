@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iannail
 - 👀 I’m interested in electrical engineering topics
-- 🌱 I’m currently learning c programing for arm cortex applications
+- 🌱 I’m currently tinkering in c programing for arm cortex applications
 - 📫 How to reach me: contact@iannail.com
 
 <!---
