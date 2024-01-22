@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iannail
-- 👀 I’m interested in electrical engineering topics
-- 🌱 I’m currently tinkering in c programing for arm cortex applications
-- 📫 How to reach me: contact@iannail.com
+- 👀 Electrical Engineer in the Aerospace Industry
+- 🌱 I’m currently tinkering in swiftui iOS app development in my free time
+- 📫 How to reach me: ian.nail@icloud.com
 
 <!---
 iannail/iannail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
